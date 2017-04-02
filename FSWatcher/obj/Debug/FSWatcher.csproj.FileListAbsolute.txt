@@ -1,0 +1,6 @@
+c:\users\dimon_000\documents\visual studio 2015\Projects\FSWatcher\FSWatcher\bin\Debug\FSWatcher.exe.config
+c:\users\dimon_000\documents\visual studio 2015\Projects\FSWatcher\FSWatcher\bin\Debug\FSWatcher.exe
+c:\users\dimon_000\documents\visual studio 2015\Projects\FSWatcher\FSWatcher\bin\Debug\FSWatcher.pdb
+c:\users\dimon_000\documents\visual studio 2015\Projects\FSWatcher\FSWatcher\obj\Debug\FSWatcher.csprojResolveAssemblyReference.cache
+c:\users\dimon_000\documents\visual studio 2015\Projects\FSWatcher\FSWatcher\obj\Debug\FSWatcher.exe
+c:\users\dimon_000\documents\visual studio 2015\Projects\FSWatcher\FSWatcher\obj\Debug\FSWatcher.pdb
